@@ -1,0 +1,2 @@
+# ethigory
+Learning solidity
